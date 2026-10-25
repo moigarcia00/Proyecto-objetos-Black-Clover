@@ -4,4 +4,4 @@ class Reino:
         self.descripcion = descripcion
 
     def presentar(self):
-        print(f"Son las tierras de {self.nombre}. {self.descripcion}")
+        print(f"Bienvenidos al {self.nombre}. {self.descripcion}")
